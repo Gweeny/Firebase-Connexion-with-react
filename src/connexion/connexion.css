@@ -1,0 +1,9 @@
+.connexions{ 
+    /* visibility: hidden; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: center;
+    /* underline */
+    text-decoration: none;
+  }
